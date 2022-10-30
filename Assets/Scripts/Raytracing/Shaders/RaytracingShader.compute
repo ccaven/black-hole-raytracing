@@ -1,0 +1,4 @@
+#pragma kernel CSMain
+
+#include "RaytracingCommon.hlsl"
+#include "RaytracingLogic.hlsl"
