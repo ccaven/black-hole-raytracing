@@ -4,6 +4,8 @@ Geodesic raytracing of Schwarzschild black holes.
 Built with [Unity](https://unity.com/download)\
 Version 2020.3.11f1
 
+Ported to WebGL, but cannot take advantage of DirectX/HLSL: https://xacer.dev/pages/black-hole/
+
 ## Scene Abstraction
 ```hlsl
 class TestScene : IScene {
